@@ -26,8 +26,8 @@ public enum TimeSession
 // Enum cho tinh trang lap dat
 public enum HookingUpStatus
 {
-    ChuaLap = 0,
-    DangLap = 1, 
-    Dathao = 2, 
-    Khac = 3
+    Chưalắp = 0,
+    Đanglắp = 1, 
+    Đãtháo = 2, 
+    Khác = 3
 }
