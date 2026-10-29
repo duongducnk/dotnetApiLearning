@@ -14,7 +14,7 @@ namespace MyDotNetApi.Controllers
                 Id = 1,
                 PatientName = "Nguyễn Văn A",
                 Department = "Khoa Cấp Cứu",
-                Status = HookingUpStatus.DangLap,
+                Status = HookingUpStatus.Đanglắp,
                 ScheduledHookUp = DateTime.Now.AddDays(1),
                 Session = TimeSession.CH
             },
@@ -23,7 +23,7 @@ namespace MyDotNetApi.Controllers
                 Id = 2,
                 PatientName = "Trần Thị B",
                 Department = "Khoa Nội Tổng Quát",
-                Status = HookingUpStatus.ChuaLap,
+                Status = HookingUpStatus.Chưalắp,
                 ScheduledHookUp = DateTime.Now.AddDays(2),
                 Session = TimeSession.SA
             }
